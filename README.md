@@ -1,4 +1,4 @@
-# remove-tags-and-create-plain-text
+# Remove HTML tags from a piece of code and create plain text
 This piece of code remove HTML, XML and PHP tags form a code and give you the plain text.
 
 <h5>For the usage of the code:</h5>
